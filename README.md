@@ -2,6 +2,6 @@
 Python Task:
 Function finds an integer that repeats an odd number of times
 
-[x] tasl
-[x] task1
-[] task2
+[x] tasl<br>
+[x] task1<br>
+[] task2<br>
